@@ -1,5 +1,3 @@
-# help-desk-labs
-Hands-on help desk labs and troubleshooting documentation
 # Help Desk Labs
 
 This repository contains hands-on labs and walkthroughs for common
