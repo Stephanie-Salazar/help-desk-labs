@@ -10,6 +10,7 @@ This repository demonstrates hands‑on help desk scenarios and troubleshooting 
 
 ## 📋 Labs Included
 Each lab has:
+
 ✔ **Problem description**  
 ✔ **Steps taken to solve**  
 ✔ **Outcome & screenshots**  
@@ -31,6 +32,4 @@ Just read each lab’s folder for a walkthrough of the scenario and resolution p
 
 ---
 
-## 📫 Contact / Connect
-LinkedIn: …
-Email: …
+
